@@ -1,0 +1,8 @@
+{
+  "skills": ["HTML", "CSS", "C# – aplikacje WinForms", "SQL - MySQL", "Python (podstawy)"],
+  "projects": [
+    "Modele 3D w Blenderze - tworzenie prostych modeli i scen",
+    "Strona internetowa do wideokonferencji - projekt w HTML, CSS i JavaScript",
+    "Projekt UI/UX w Figma - makiety i prototypy aplikacji"
+  ]
+}
